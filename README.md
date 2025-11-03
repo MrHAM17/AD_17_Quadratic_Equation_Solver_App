@@ -36,3 +36,29 @@ Application designed to **solve quadratic equations** (ax² + bx + c = 0) by fet
 This app demonstrates how to apply **Data Binding** to a practical mathematical task, showcasing its utility in managing input, calculating results, and updating the output UI declaratively.
 
 ---
+
+### Screenshots
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>Main Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_17_Quadratic_Equation_Solver_App/blob/main/Result%20Pics/01%20Main%20Screen.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>User Input
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_17_Quadratic_Equation_Solver_App/blob/main/Result%20Pics/02%20User%20Input.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Result
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_17_Quadratic_Equation_Solver_App/blob/main/Result%20Pics/03%20Result.jpg" height="510" width="240"> </td> </tr> </table>
+
+---
